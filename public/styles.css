@@ -1,0 +1,38 @@
+html, body {
+  background-color: blanchedalmond;
+  color: black;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  width:100%; 
+  height:100%;
+  padding:0px;
+  margin:0px;
+  display: flex;
+  flex-direction: column;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+a { 
+  color: inherit; 
+}
+
+footer {
+  position: absolute;
+  left: 0rem;
+  bottom: 0rem;
+  width: 100%;
+  background-color: black;
+  color: white;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: 18px;
+  display: flex;
+}

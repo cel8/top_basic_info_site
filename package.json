@@ -1,0 +1,26 @@
+{
+  "name": "top_basic_info_site",
+  "version": "1.0.0",
+  "description": "A basic informational site part of The Odin Project project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cel8/top_basic_info_site.git"
+  },
+  "author": "Alessandro Celotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cel8/top_basic_info_site/issues"
+  },
+  "homepage": "https://github.com/cel8/top_basic_info_site#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
